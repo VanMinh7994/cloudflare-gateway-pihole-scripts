@@ -1,7 +1,7 @@
 ! Title: Allowlist
 ! Description: Whitelist các domain thủ công, tránh bị block nhầm
 ! Version: 1.0
-! Homepage: https://github.com/bibicadotnet/AdGuard-Home-allowlists
+! Homepage: https://github.com/VanMinh7994/cloudflare-gateway-pihole-scripts
 
 ! Mở browser ra nếu không thì không cài được addon trên Cốc Cốc
 @@||browser.coccoc.com^
@@ -16,3 +16,4 @@
 ! Trang bị chặn nhầm
 @@||umami.is^
 @@||controld.com^
+@@||analytics.google.com^
