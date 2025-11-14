@@ -17,3 +17,9 @@
 @@||umami.is^
 @@||controld.com^
 @@||analytics.google.com^
+@@||plo.vn^
+@@||tuoitre.vn^
+@@||vnreview.vn^
+@@||wpa.chat.zalo.me^
+@@||zalo.me^
+@@||vnexpress.net^
