@@ -3,23 +3,4 @@
 ! Version: 1.0
 ! Homepage: https://github.com/VanMinh7994/cloudflare-gateway-pihole-scripts
 
-! Mở browser ra nếu không thì không cài được addon trên Cốc Cốc
-@@||browser.coccoc.com^
-@@||safe-browsing-api.coccoc.com^
-@@||coccoc.com/search^
-@@||accounts.coccoc.com^
-@@||points.coccoc.com^
-
-! Mặc định Edge không chặn url bên dưới, nếu không sẽ không gọi được tới Google Search
-@@||edge.microsoft.com^
-
-! Trang bị chặn nhầm
-@@||umami.is^
-@@||controld.com^
 analytics.google.com
-@@||plo.vn^
-@@||tuoitre.vn^
-@@||vnreview.vn^
-@@||wpa.chat.zalo.me^
-@@||zalo.me^
-@@||vnexpress.net^
