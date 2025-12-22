@@ -1,1 +1,4 @@
-
+! Title: Block List - Custom
+! Description: Blocklist chặn thủ công các domain bị thiếu
+! Version: 1.0
+! Homepage: https://github.com/VanMinh7994/cloudflare-gateway-pihole-scripts
