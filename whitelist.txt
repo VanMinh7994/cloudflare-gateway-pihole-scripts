@@ -16,7 +16,7 @@
 ! Trang bị chặn nhầm
 @@||umami.is^
 @@||controld.com^
-@@||analytics.google.com^
+analytics.google.com
 @@||plo.vn^
 @@||tuoitre.vn^
 @@||vnreview.vn^
