@@ -3,4 +3,4 @@
 ! Version: 1.0
 ! Homepage: https://github.com/VanMinh7994/cloudflare-gateway-pihole-scripts
 
-analytics.google.com
+@@||analytics.google.com^
