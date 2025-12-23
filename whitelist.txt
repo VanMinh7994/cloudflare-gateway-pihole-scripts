@@ -4,3 +4,4 @@
 ! Homepage: https://github.com/VanMinh7994/cloudflare-gateway-pihole-scripts
 
 @@||analytics.google.com^
+@@||cap3.sex^
