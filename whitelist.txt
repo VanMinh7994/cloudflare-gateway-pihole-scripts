@@ -7,3 +7,4 @@
 analytics.google.com
 www.analytics.google.com
 https://analytics.google.com
+||analytics.google.com^
